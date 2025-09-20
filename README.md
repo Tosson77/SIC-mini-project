@@ -5,6 +5,10 @@ The project aims to make home gates smarter, safer, and more convenient, while a
 
 # Team Members
 Marwan Tosson
+
 Mohamed Ibrahim
+
 Mohamed Hamdy
+
 Nada Ezzat
+
